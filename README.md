@@ -30,7 +30,7 @@ This project was created to practice **front-end development skills** and demons
 
 
 ## 🚀 Live Demo
-🔗 [Play Tic Tac Toe Now](https://github.com/Niki415-cpu.github.io/tic-tac-toe)
+🔗 [Play Tic Tac Toe Now](https://Niki415-cpu.github.io/tic-tac-toe)
 
 ## 📂 Project Structure
 tic-tac-toe/
